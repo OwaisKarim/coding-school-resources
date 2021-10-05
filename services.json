@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Android App Development",
+    "price":5990,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/android.jpg"
+  },
+  {
+    "name":"C Programming Course",
+    "price":3450,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/c-programming.jpg"
+  },
+  {
+    "name":"Django App Development",
+    "price":4550,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/django.jpg"
+  },
+  {
+    "name":"Docker Crash Course",
+    "price":5680,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/docker.jpeg"
+  },
+  {
+    "name":"Flutter App Development",
+    "price":8750,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/flutter.jpeg"
+  },
+  {
+    "name":"Kubernetes Crash Course",
+    "price":6540,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/kubernetes.png"
+  },
+  {
+    "name":"Python Course",
+    "price":4990,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/python.png"
+  },
+  {
+    "name":"React Native App Development",
+    "price":8990,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/coding-school-resources/main/images/react.jpg"
+  }
+]
